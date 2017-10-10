@@ -8,4 +8,4 @@ function changeImage() {
   document.getElementById('image').setAttribute('src', newImage);
 }
 
-setInterval(changeImage, 3000)
+setInterval(changeImage, 1000)
